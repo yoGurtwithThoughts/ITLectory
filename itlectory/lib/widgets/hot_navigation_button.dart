@@ -6,13 +6,14 @@ class HotButtonMenu extends StatelessWidget{
   Widget build (BuildContext context) {
     return GestureDetector(
       onTap: () {
-    Navigator.pushNamed(context, '/sign-In');
+    Navigator.pushNamed(context, '/sign-in');
   },
     child:const Text('Пропустить' ,
       style: TextStyle( 
       color: Colors.white,
       fontSize: 12,
       decoration: TextDecoration.underline,
+      decorationColor: Colors.white,
       fontFamily: 'Monsterrat'),
       ),
     );

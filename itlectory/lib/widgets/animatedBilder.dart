@@ -56,6 +56,10 @@ class _PulsatingCircleState extends State<PulsatingCircle>
                 ),
               ],
             ),
+            child: Center(
+              child: Text('IT', textAlign: TextAlign.center, 
+            style: TextStyle(fontFamily: 'JockeyOne-Regular', fontWeight: FontWeight.w700,
+            fontSize: 64, color: Color.fromRGBO(0, 137, 201, 1))),),
           );
         },
       ),
