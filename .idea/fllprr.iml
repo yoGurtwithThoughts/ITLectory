@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/itlectory/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/itlectory/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/itlectory/build" />
+      <excludeFolder url="file://$MODULE_DIR$/it_lectory_copy/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/it_lectory_copy/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/it_lectory_copy/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
